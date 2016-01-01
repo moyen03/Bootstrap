@@ -1,3 +1,3 @@
 # Bootstrap
 
-It's a simple bootstrap project
+There are three Bootstrap projects just to go through to the different level of Bootstrap components.
