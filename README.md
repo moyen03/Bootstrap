@@ -1,3 +1,3 @@
 # Bootstrap
 
-Simple Bootstrap >> About Me
+Simple Bootstrap About Me Example
